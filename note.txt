@@ -21,3 +21,5 @@ on windeows contro +s
 or click on file save
 
 we do not have to push one commint at a time 
+you can push multiple commints in one shot 
+there is no limit
