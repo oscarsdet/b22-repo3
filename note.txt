@@ -19,3 +19,5 @@ How to save afeter adding some text in sublime
 on mac command + s
 on windeows contro +s
 or click on file save
+
+we do not have to push one commint at a time 
