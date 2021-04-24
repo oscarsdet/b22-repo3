@@ -1,1 +1,0 @@
-This is a file I added from githuh.com to my remote repository directly by clicking add file button
