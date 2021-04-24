@@ -1,6 +1,6 @@
 Public Class Hello world{
 
-public static void Main method  (String [] args{
+public static void Main method  (String [] args){
 
 }
 
