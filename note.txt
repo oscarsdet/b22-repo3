@@ -13,3 +13,9 @@ Now our work will continue Locally
 2.commied the change to local repo
 3. we wan this cange to be refected in remote reporespository  so we PUSHED local commits to remote  repository usin push oring button
 4. Observe it has been added in your resposity under githuh.com
+
+
+How to save afeter adding some text in sublime 
+on mac command + s
+on windeows contro +s
+or click on file save
