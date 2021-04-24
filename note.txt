@@ -1,0 +1,7 @@
+we jsut published our local git repo
+to remote github.com respostory
+few things happened: 
+it automatically  ceated new Remote Repo
+under your github.com account
+made the conncetion with your local git repot
+adde all your commints to remote repo
